@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T03:37:48.521Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="TXp7cK_GIGj4CCbpesVy" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-11T04:06:56.102Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="DOv6YYVoMeqqW7ECwTRQ" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1026" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -264,11 +264,132 @@
             <mxPoint y="-6" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-116" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-107" target="n7-h31AgmtaliCIaqAON-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-117" value="有账号" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-116">
+          <mxGeometry x="-0.1333" y="2" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n7-h31AgmtaliCIaqAON-107" value="判断是否有账号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="530" y="1410" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-110" target="n7-h31AgmtaliCIaqAON-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-119" value="账号注册成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-118">
+          <mxGeometry x="-0.5103" relative="1" as="geometry">
+            <mxPoint x="-86" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="n7-h31AgmtaliCIaqAON-110" value="注册账号" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="730" y="1420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-132" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-115" target="n7-h31AgmtaliCIaqAON-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-115" value="登录账号" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-123" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-115" target="n7-h31AgmtaliCIaqAON-122">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-124" value="希望创建新的比赛" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-123">
+          <mxGeometry x="0.025" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-115" target="n7-h31AgmtaliCIaqAON-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="640" y="1680" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-127" value="希望加入其他裁判创建的比赛" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-126">
+          <mxGeometry y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-134" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-120" target="n7-h31AgmtaliCIaqAON-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-135" value="点击某一场比赛" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-134">
+          <mxGeometry x="0.025" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-120" target="n7-h31AgmtaliCIaqAON-136">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-138" value="对于自己创建的比赛，拥有管理裁判的权限" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-137">
+          <mxGeometry x="0.25" y="-2" relative="1" as="geometry">
+            <mxPoint x="43" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-120" value="系统自动获取该账号拥有的比赛列表" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-122" value="创建新的比赛" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="230" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-125" value="根据其他裁判提供的比赛ID，选择加入该比赛。" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="850" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-133" target="n7-h31AgmtaliCIaqAON-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-143" value="新增比赛记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-142">
+          <mxGeometry x="0.05" y="2" relative="1" as="geometry">
+            <mxPoint y="-3" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-133" target="n7-h31AgmtaliCIaqAON-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-146" value="获取比赛记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-145">
+          <mxGeometry x="-0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-133" value="获得该比赛排名的详细信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-136" value="点击裁判列表，可以查看该比赛所有裁判，裁判后面跟一个删除按钮，可以删除某个裁判。" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="1710" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-154" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-141" target="n7-h31AgmtaliCIaqAON-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-141" value="点击新增比赛记录按钮，弹出新增比分窗口，填完保存。" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-148" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-144" target="n7-h31AgmtaliCIaqAON-147">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-149" value="想要修改某条记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-148">
+          <mxGeometry x="-0.175" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-151" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="n7-h31AgmtaliCIaqAON-144" target="n7-h31AgmtaliCIaqAON-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-152" value="想要删除某条记录" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="n7-h31AgmtaliCIaqAON-151">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-144" value="点击获取比赛记录按钮，会弹出该比赛所有的提交记录。" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-147" value="弹出记录修改窗口" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1040" y="1860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-150" value="删除某条记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="790" y="2000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n7-h31AgmtaliCIaqAON-153" value="分数提交后，比赛的排名及时更新。" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="2000" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
